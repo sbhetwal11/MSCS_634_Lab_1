@@ -27,5 +27,4 @@ The following statistical analyses were performed:
 - Dispersion measures including range, quartiles, interquartile range (IQR), variance, and standard deviation
 - Correlation analysis using a correlation matrix to examine relationships between numerical variables
 
-## Conclusion
 This lab demonstrates a complete data analysis workflow, from data loading and visualization to preprocessing and statistical evaluation. The applied techniques help improve data quality and provide insights that support deeper analytical exploration.
